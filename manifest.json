@@ -1,0 +1,10 @@
+{
+  "id": "kanban-status-updater",
+  "name": "Kanban Status Updater",
+  "version": "2.0.0",
+  "minAppVersion": "1.1.0",
+  "description": "Syncs kanban board columns to note frontmatter with Eisenhower quadrants and auto-archive",
+  "author": "Ankit Kapur",
+  "authorUrl": "https://github.com/saikrn112",
+  "isDesktopOnly": false
+}
